@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Luis</h1>
 <h3 align="center">A passionate frontend developer from Guatemala</h3>
 
-- 💬 Ask me about **Angular , nodeJs**
-
 - 📫 How to reach me **josemherrera1923@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
